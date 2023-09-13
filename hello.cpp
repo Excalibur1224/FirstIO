@@ -5,9 +5,6 @@
 #include <string>
 
 int main() {
-    std::string input;
-    std::cout << "Hi, my name is Brayden Falla, What's yours?" << std::endl;
-    std::cin >> input;
-    std::cout << "Hello, " << input << std::endl;
+    std::cout << "Hello World"<<std::endl;
     return 0;
 }
